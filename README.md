@@ -1,4 +1,4 @@
-# Process Tagging with Argumentations
+# Combining abstract argumentation and machine learning for efficiently analyzing low-level process event streams
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
