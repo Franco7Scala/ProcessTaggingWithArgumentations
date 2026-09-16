@@ -1,0 +1,8 @@
+arg(NIA-0).
+arg(e1-step0-A-first-instance0).
+arg(e1-step0-B-first-instance0).
+att(NIA-0,NIA-0).
+att(e1-step0-A-first-instance0,NIA-0).
+att(e1-step0-B-first-instance0,NIA-0).
+att(e1-step0-A-first-instance0,e1-step0-B-first-instance0).
+att(e1-step0-B-first-instance0,e1-step0-A-first-instance0).
