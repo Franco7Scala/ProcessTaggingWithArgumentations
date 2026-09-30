@@ -1,5 +1,6 @@
 # Combining abstract argumentation and machine learning for efficiently analyzing low-level process event streams
 
+[![Paper](https://img.shields.io/badge/Paper-Complex_&_Intelligent_Systems-brightgreen.svg)](https://doi.org/10.1007/s40747-026-02340-1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the code and resources for the framework presented in the research paper "Combining Abstract Argumentation and Machine Learning for Efficiently Analyzing Low-Level Process Event Streams". Our proposal addresses the challenge of analyzing and interpreting low-level process event streams by combining machine learning tagging capabilities with formal abstract argumentation theory, providing an explainable, robust, and logic-based approach to classify and annotate process elements.
